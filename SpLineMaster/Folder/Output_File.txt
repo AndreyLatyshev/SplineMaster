@@ -1,0 +1,11 @@
+Distance beetween splines is: 6.5120123748
+ Pais of closest points: 2
+
+Pair of points #1: 
+      The 1st spline's point is: (0.7949477230, 0.7006016901)  with parameter 0.4528269836
+      The 2nd spline's point is: (5.8117616622, 4.8524546582)  with parameter 0.2656865281
+      The distance is: 6.5120123748
+Pair of points #2: 
+      The 1st spline's point is: (0.7949443096, 0.7006058146)  with parameter 0.4528307525
+      The 2nd spline's point is: (5.8117616622, 4.8524546582)  with parameter 0.2656865281
+      The distance is: 6.5120123748
